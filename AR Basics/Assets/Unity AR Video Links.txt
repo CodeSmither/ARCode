@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=FGh7f-PaGQc
+https://www.youtube.com/watch?v=jBRxY2KnrUs
+Helpful for Image Library and picture tracking:
+https://www.youtube.com/watch?v=6uaY6o8Ptzc
+https://www.youtube.com/watch?v=-9RGMNK4uxg
+https://www.youtube.com/watch?v=iM0ghkvsRos
+https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/tracked-image-manager.html
+https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/trackable-managers.html
+https://docs.unity3d.com/Packages/com.unity.xr.arsubsystems@4.0/api/UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary.html
+https://docs.unity3d.com/Packages/com.unity.xr.arsubsystems@4.0/api/UnityEditor.XR.ARSubsystems.XRReferenceImageLibraryExtensions.html#UnityEditor_XR_ARSubsystems_XRReferenceImageLibraryExtensions_Add_UnityEngine_XR_ARSubsystems_XRReferenceImageLibrary_
+https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/api/UnityEngine.XR.ARFoundation.ARTrackedImageManager.html
+https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/api/UnityEngine.XR.ARFoundation.ARTrackedImageManager.html#UnityEngine_XR_ARFoundation_ARTrackedImageManager_requestedMaxNumberOfMovingImages
+https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/api/UnityEngine.XR.ARFoundation.ARTrackedImageManager.html#UnityEngine_XR_ARFoundation_ARTrackedImageManager_requestedMaxNumberOfMovingImages
+
+
+Solution to Images
+https://www.youtube.com/watch?v=6uaY6o8Ptzc
+Mention Image Solution on Sway
+
+Had Obselete Method
+trackImageManager.maxNumberOfMovingImage
+use
+trackImageManager.requestedMaxNumberOfMovingImages (or)
+trackImageManager.currentMaxNumberOfMovingImages
